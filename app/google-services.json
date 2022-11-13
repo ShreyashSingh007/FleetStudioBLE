@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293851966040",
+    "project_id": "fleettest-82370",
+    "storage_bucket": "fleettest-82370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293851966040:android:00636daf8e6745fed2382d",
+        "android_client_info": {
+          "package_name": "com.fleet.studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293851966040-5r9d24f61br2oeo0c0dtspl8qobii0ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64pOZEX7r2uPy4NlFIfYprBDP5u2FiC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293851966040-5r9d24f61br2oeo0c0dtspl8qobii0ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
